@@ -10,7 +10,7 @@ A simple Java-based food ordering system that allows users to register, browse r
 - **Order Management:** Place orders, view menus, and process payments (UPI, cash, card).
 - **Database Integration:** Uses MySQL for storing users, restaurants, and menu data.
 
-## Folder Structure
+## Folder Structure 
 
 ```
 demo/
