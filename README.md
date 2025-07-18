@@ -2,7 +2,7 @@
 
 A simple Java-based food ordering system that allows users to register, browse restaurants, manage menus, and place orders. The system uses a MySQL database for persistent storage.
 
-## Features
+## Features 
 
 - **User Management:** Register, update, and delete users; view user details.
 - **Restaurant Management:** Add, update, and delete restaurants; view restaurant details.
